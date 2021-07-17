@@ -132,7 +132,7 @@ li{
 }
 
 .publish > form > p{
-    margin-left: 38%;
+    margin-left: 10px;
 }
 
 .publish > form > button{
@@ -142,7 +142,6 @@ li{
 
 .publish > form p{
     color: #025157;
-    margin-right: 18px;
 }
 
 .promo{
