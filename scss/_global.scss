@@ -6,8 +6,24 @@ $light-green: #67b54b;
 $light-gray: #979797;
 
 $font-title: "Alegreya", serif;
+$font-head5: "Open Sans", sans-serif;
 
 %base-title{
     font-family: $font-title;
     color: $dark-green-text;
+}
+
+%base-head5{
+    font-family: $font-head5;
+    color: $gray;
+}
+
+%base-strong{
+    font-family: $font-head5;
+    color: $light-green;
+}
+
+%base-strong2{
+    font-family: $font-head5;
+    color: $light-gray;
 }

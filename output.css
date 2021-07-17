@@ -3,6 +3,21 @@
   color: #135359;
 }
 
+.blog .card-title, .blog .read-more {
+  font-family: "Open Sans", sans-serif;
+  color: #4A4A4A;
+}
+
+.blog .category {
+  font-family: "Open Sans", sans-serif;
+  color: #67b54b;
+}
+
+.blog .read-time, .blog .card-text {
+  font-family: "Open Sans", sans-serif;
+  color: #979797;
+}
+
 .blog {
   background-color: #ffffff;
   max-width: unset;

@@ -51,4 +51,16 @@
         width: 180px;
         margin-bottom: 15px;
     }
+
+    .card-title, .read-more{
+        @extend %base-head5;
+    }
+
+    .category{
+        @extend %base-strong;
+    }
+    
+    .read-time, .card-text{
+        @extend %base-strong2;
+    }
 }
